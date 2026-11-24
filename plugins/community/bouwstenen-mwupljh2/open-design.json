@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "bouwstenen-mwupljh2",
+  "title": "Bouwstenen",
+  "version": "0.1.0",
+  "description": "Bron: laag 2 van `plan.md` en bestaande bestanden in `src/components/ui`. De schets toont vier knopsoorten; het plan noemt er drie. Beide hebben twee maten. Deze inventaris houdt de vier bestaande schetssoorten aan, incl",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "candidateId": "d34b373a-578e-4ec8-97f6-302b06c48997",
+  "projectId": "3091158b-a02b-4b76-8852-030bb3dcc912",
+  "runId": "1803f322-3f9a-4a4d-8fbe-ef99cb867ee8",
+  "conversationId": "4412c4ac-07d8-4709-9e9e-7692501e9997",
+  "provenance": {
+    "summary": "Detected from BOUWSTENEN.md after a successful run.",
+    "detectedAt": 1795525615134
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "BOUWSTENEN.md",
+      "label": "BOUWSTENEN.md",
+      "size": 8644,
+      "copied": true
+    }
+  ]
+}
